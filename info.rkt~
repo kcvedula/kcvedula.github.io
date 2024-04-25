@@ -1,4 +1,0 @@
-#lang info
-
-(define scribblings '(("hello.scrbl" (multi-page))
-                      ("helper.scrbl" (multi-page))))
