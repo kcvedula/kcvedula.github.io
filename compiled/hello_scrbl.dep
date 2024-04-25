@@ -1,0 +1,1 @@
+("8.10" ta6osx ("515939a3e2247195b11993351acce11a486fe95d" . "1b727488dcba510726eb1766f3111e3ab665c88f") (collects #"diy" #"helper.scrbl") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"scribble" #"base" #"lang" #"configure-runtime.rkt") (collects #"scribble" #"manual" #"lang" #"reader.rkt") (collects #"scribble" #"manual" #"lang.rkt"))
